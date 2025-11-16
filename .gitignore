@@ -3,3 +3,5 @@ Thumbs.db
 *.bak
 *.tmp
 *.log
+venv/
+__pycache__/
