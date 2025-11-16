@@ -1,2 +1,3 @@
-# Stock_Management_System
-A full SQL-based stock portfolio management system featuring users, portfolios, transactions, triggers, stored procedures, and automated dividend handling
+# Stock Management System (Flask + MySQL)
+
+A full-stack DBMS project with SQL schema, Flask backend, and web interface for managing stocks, portfolios, and transactions.
